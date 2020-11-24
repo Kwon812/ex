@@ -1,9 +1,28 @@
-.kwon {
-  height: 200px;
-  width: 200px;
-  text-align: center;
-  background-color: brown;
-  line-height: 200px;
-  color: blueviolet;
+.docas {
   margin: 0 auto;
+  padding: 10px;
+  width: 480px;
+
+  background-color: chartreuse;
+
+  color: blueviolet;
+}
+
+.camera {
+  background-color: cornflowerblue;
+  margin-top: 10px;
+  width: 480px;
+  height: 500px;
+}
+.name {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+}
+.percent {
+  text-align: center;
+  font-size: 14px;
+}
+.icon .invisible {
+  display: none;
 }
